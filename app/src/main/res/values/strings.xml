@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes Application</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="no_note">No note available. Please add a note.</string>
+</resources>
